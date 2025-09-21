@@ -1,0 +1,42 @@
+A program is made up of one or more objects working together
+Objects make use of each other's capabilities
+
+Object:
+    An object is a bit of self-contained Code and Data
+    To break the problem into small and understandable parts
+    Has boundaries that allow us to ignore un-needed detail
+    I.e. String Objects, ist Objects, Dictionary Objects, etc.
+
+Class:
+    A template that can be used to construct an object 
+    Defines the attributes and methods that will make up the object
+    I.e. Dog
+
+Method or Message:
+    A defined capability of a class
+    A function that is contained within a class and the objects that are constructed from the class
+    I.e. bark()
+
+Field or Attribute:
+    A bit of data in a class
+    A variable that is part of a class
+    I.e. length
+
+Object or Instance:
+    A particular instance of a class
+    Contains all of the attributes and methods that were defined by the class
+    I.e. Lassie
+
+Constructor:
+    An optional specially named method (__init__) that is called at the moment when a class is being used to construct an object
+    Usually this is used to set up initial values for the object
+
+Destructor:
+    An optional specially named method (__del__) that is called at the moment just before an object is destroyed
+    Destructors are rarely used
+
+Inheritance"
+    The ability to extend a class to make a new class
+    When we create a new class (child) by extending an existing class (parent)
+    The child class has all the attributes and methods of the parent class plus additional attributes and methods defined by the child class.
+
