@@ -1,51 +1,47 @@
 # PY4E Practice (Python for Everybody)
 
-This repository contains my personal practice while working through **Python for Everybody (PY4E)** by Dr. Charles Severance.  
-It documents my progress from Python basics to working with files, data formats, networking, and databases.
+This repository contains my practice solutions and notes while studying **Python for Everybody (PY4E)** by Dr. Charles Severance.  
+It serves as my learning log as I work through Python fundamentals, data structures, files, networking, and databases.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Structure
 
-Exercises are grouped by chapter/topic:
+Exercises are organized by chapter:
 
-
-> ✅ More folders/exercises will be added as I continue the course.
-
----
-
-## 🚀 Quick Start
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/DanielLu744/py4e-practice.git
-cd py4e-practice
-
-# macOS / Linux
-python3 -m venv .venv
-source .venv/bin/activate
-
-# Windows (PowerShell)
-py -3 -m venv .venv
-.venv\Scripts\Activate.ps1
-
-cd ex_6
-python3 some_script.py
-
-# Show Python version
-python3 --version
-
-# Format with black (if installed)
-python3 -m pip install black
-black ex_*/ *.py
-
+- `ex_1/` → Variables & input  
+- `ex_2/` → Conditionals  
+- `ex_3/` → Functions  
+- `ex_4/` → Loops  
+- `ex_5/` → Strings  
+- `ex_6/` → Files  
+- `ex_7/` → Lists  
+- `ex_8/` → Dictionaries  
+- `ex_9/` → Tuples  
+- `ex_10/` → Regular expressions  
+- `ex_11/` → Networked programs  
+- `ex_12/` → XML  
+- `ex_13/` → JSON & APIs  
+- `ex_14/` → Databases (SQLite)  
 
 ---
 
-### How to use it
-1) Create/overwrite `README.md` at the repo root with the content above.  
-2) Commit and push:
-```bash
-git add README.md
-git commit -m "docs: refresh README with structure, progress, and usage"
-git push origin main
+## ✅ Progress
+
+- ✔️ Basics, conditionals, functions, loops  
+- ✔️ Strings, files, lists, dictionaries, tuples  
+- ✔️ Regular expressions, networking, XML, JSON  
+- ✔️ Databases with SQLite  
+- ⏳ Continuing with advanced / optional topics  
+
+---
+
+## 📚 Resources
+
+- [Python for Everybody](https://www.py4e.com/) (course & book by Dr. Chuck)  
+- [Python Official Docs](https://docs.python.org/3/)  
+
+---
+
+🐍 Learning step by step — from basics to building real-world data skills.
+
