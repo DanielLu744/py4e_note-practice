@@ -5,7 +5,7 @@ It serves as my learning log as I work through Python fundamentals, data structu
 
 ---
 
-## 📂 Structure
+## Structure
 
 Exercises are organized by chapter:
 
@@ -26,7 +26,7 @@ Exercises are organized by chapter:
 
 ---
 
-## ✅ Progress
+## Progress
 
 - ✔️ Basics, conditionals, functions, loops  
 - ✔️ Strings, files, lists, dictionaries, tuples  
@@ -36,12 +36,12 @@ Exercises are organized by chapter:
 
 ---
 
-## 📚 Resources
+## Resources
 
 - [Python for Everybody](https://www.py4e.com/) (course & book by Dr. Chuck)  
 - [Python Official Docs](https://docs.python.org/3/)  
 
 ---
 
-🐍 Learning step by step — from basics to building real-world data skills.
+-v- Learning step by step — from basics to building real-world data skills.
 
