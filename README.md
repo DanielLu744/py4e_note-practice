@@ -43,5 +43,5 @@ Exercises are organized by chapter:
 
 ---
 
--v- Learning step by step — from basics to building real-world data skills.
+OvO Learning step by step — from basics to building real-world data skills.
 
