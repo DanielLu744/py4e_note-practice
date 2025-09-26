@@ -9,20 +9,22 @@ It serves as my learning log as I work through Python fundamentals, data structu
 
 Exercises are organized by chapter:
 
-- `ex_1/` → Variables & input  
-- `ex_2/` → Conditionals  
-- `ex_3/` → Functions  
-- `ex_4/` → Loops  
-- `ex_5/` → Strings  
-- `ex_6/` → Files  
-- `ex_7/` → Lists  
-- `ex_8/` → Dictionaries  
-- `ex_9/` → Tuples  
-- `ex_10/` → Regular expressions  
-- `ex_11/` → Networked programs  
-- `ex_12/` → XML  
-- `ex_13/` → JSON & APIs  
-- `ex_14/` → Databases (SQLite)  
+- `ex_1/` → Introduction  
+- `ex_2/` → Variables, expressions and statements  
+- `ex_3/` → Conditional Execution  
+- `ex_4/` → Functions  
+- `ex_5/` → Loops and Iterations  
+- `ex_6/` → Strings  
+- `ex_7/` → Files  
+- `ex_8/` → Lists  
+- `ex_9/` → Dictionaries  
+- `ex_10/` → Tuples  
+- `ex_11/` → Regular Expressions  
+- `ex_12/` → Network Programming  
+- `ex_13/` → Using Web Services  
+- `ex_14/` → Object-Oriented Programming
+- `ex_15/` → Databases
+- `ex_16/` → Data Visualization 
 
 ---
 
